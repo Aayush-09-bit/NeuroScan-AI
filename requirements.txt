@@ -1,0 +1,36 @@
+# Core Flask dependencies
+Flask==2.3.3
+Werkzeug==2.3.7
+
+# Machine Learning and Deep Learning
+tensorflow==2.13.0
+keras==2.13.1
+numpy==1.24.3
+scikit-learn==1.3.0
+
+# Image Processing
+Pillow==10.0.1
+opencv-python==4.8.1.78
+
+# Data Manipulation and Analysis
+pandas==2.0.3
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Web Framework Support
+Jinja2==3.1.2
+MarkupSafe==2.1.3
+itsdangerous==2.1.2
+click==8.1.7
+
+# File Handling and Utilities
+secure-filename==0.1
+python-magic==0.4.27
+
+# Development and Testing (optional)
+pytest==7.4.2
+pytest-flask==1.2.0
+
+# Additional utilities
+tqdm==4.66.1
+requests==2.31.0
